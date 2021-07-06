@@ -1,2 +1,2 @@
 # Livro-de-receitas
-Meu livro de receitar
+Meu livro de receitas
